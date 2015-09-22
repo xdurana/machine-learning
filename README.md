@@ -44,7 +44,14 @@ The course focuses on the exciting field of deep learning. By drawing inspiratio
 
 ---
 
-### [Computational Neuroscience]()
+### [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience)
+#### Johns Hopkins University
+
+This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.
+
+---
+
+### [Computational Neuroscience](https://www.coursera.org/course/compneuro)
 #### University of Washington
 Prof. [Rajesh P. N. Rao](https://www.coursera.org/instructor/rajeshrao)
 
@@ -67,3 +74,4 @@ This course provides an introduction to basic computational methods for understa
 
 - [Python scikit-learn](http://scikit-learn.org/stable/)
 - [Data Science Ontology](http://www.datascienceontology.com/)
+- [Kaggle](https://www.kaggle.com/)

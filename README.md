@@ -49,3 +49,16 @@ The course focuses on the exciting field of deep learning. By drawing inspiratio
 Prof. [Rajesh P. N. Rao](https://www.coursera.org/instructor/rajeshrao)
 
 This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function. We will explore the computational principles governing various aspects of vision, sensory-motor control, learning, and memory. Specific topics that will be covered include representation of information by spiking neurons, processing of information in neural networks, and algorithms for adaptation and learning. We will make use of Matlab demonstrations and exercises to gain a deeper understanding of concepts and methods introduced in the course. The course is primarily aimed at third- or fourth-year undergraduates and beginning graduate students, as well as professionals and distance learners interested in learning how the brain processes information.
+
+## Books
+
+### Machine Learning
+
+- [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+- [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)
+- [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
+
+### Statistical Inference
+
+- [All of Statistics: A Concise Course in Statistical Inference](http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)

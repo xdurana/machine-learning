@@ -62,3 +62,8 @@ This course provides an introduction to basic computational methods for understa
 ### Statistical Inference
 
 - [All of Statistics: A Concise Course in Statistical Inference](http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
+
+## Tools
+
+- [Python scikit-learn](http://scikit-learn.org/stable/)
+- [Data Science Ontology](http://www.datascienceontology.com/)
